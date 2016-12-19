@@ -1,0 +1,23 @@
+.battle-field-set{
+	height: 70px;
+
+}
+.button{
+	height: 50px;
+	width: 100px;
+	font-size: 18px;
+	color: green;
+	background-color: orange;
+}
+.battle-field{
+	width: 50px;
+	height: 50px;
+	float: left;
+	border: 1px solid black;
+}
+.ship{
+	background-color: grey;
+	border-color: red;
+	border-style: dotted;
+}
+
